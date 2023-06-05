@@ -1,0 +1,11 @@
+.title{
+    width: fit-content;
+    margin: auto;
+    margin-top: 5px;
+    color: rgb(42, 147, 233);
+}
+
+.btn{
+    margin: auto;
+    margin-top: 25vh;
+}

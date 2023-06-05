@@ -1,0 +1,11 @@
+.outer{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+   
+}
+.nav{
+    height: 30vh;
+    width: 100vw;
+    border: 1px grey;
+}

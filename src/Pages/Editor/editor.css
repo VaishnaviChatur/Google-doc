@@ -1,0 +1,44 @@
+
+.editor{
+    width: 80vw;
+    background-color: rgb(255, 255, 255);
+    margin: 10px 10px 10px auto !important;
+    border: 1px solid rgb(198, 197, 197) !important;
+   
+  }
+  .ql-toolbar.ql-snow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+    width: 93%;
+    margin: auto;
+    background-color: rgb(222, 229, 232);
+    border: none !important;
+    border-radius: 50px;
+  }
+
+
+/*.outer{
+    display: flex;
+    flex-direction: row;
+
+    border-top: 1px solid rgb(205, 203, 203);
+    width: 97vw;
+    height: 100vh;
+    margin: auto;
+}
+
+.left{
+    border-right: 1px solid rgb(205, 203, 203);
+    width: 17vw;
+
+}
+.right{
+    border-left: 1px solid rgb(205, 203, 203);
+    width: 17vw;
+}
+.editor{
+    width: 82vw;
+}*/
