@@ -1,0 +1,16 @@
+.stylebtn {
+    border: none;
+    background-color: rgb(228, 235, 238);
+    font-size: 20px;
+}
+
+.fontSelector {
+    width: 100px;
+    text-align: center;
+}
+
+.fontSelector:hover {
+    /* background-color: rgb(206, 218, 228); */
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
